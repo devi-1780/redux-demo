@@ -54,4 +54,4 @@ store.dispatch(orderChocolate());
 store.dispatch(orderChocolate());
 store.dispatch(updateChocolate());
 unsubscribe();
-store.dispatch(updateChocolate());
+store.dispatch(updateChocolate()); 
